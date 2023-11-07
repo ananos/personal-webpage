@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -17,9 +17,10 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Nubificus LTD'
+    description: 'Anastassios Nanos personal webpage.'
+    twitter: 'anan0s'
+    email: 'ananos@nubificus.co.uk'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Anastassios Nanos. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,12 +71,12 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ananos/personal-webpage'
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
-    shape: circle
+    gravatar: true
+    shape: square
   comment:
     provider: ''
     disqus:

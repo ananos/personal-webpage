@@ -1,0 +1,29 @@
+{{/* Wowchemy Blocks: shortbio */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $autolink := default true $block.Params.content.autolink }}
+{{ $data := $block.Params.content }}
+
+{{ $columns := $block.Params.design.columns | default "2" }}
+
+
+
+<h1>{{ $block.Params.content.Title | markdownify | emojify }}</h1>
+
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+  <ul class="fa-ul">
+
+    {{ with $data.text}}
+    <li>
+      <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
+      <span>{{ . | markdownify | emojify }}</span>
+    </li>
+    {{ end }}
+
+  </ul>
+
+</div>
