@@ -134,6 +134,23 @@ experience:
      date_start: '2011-01-01'
      date_end: '2013-07-01'
      description: Served as a systems engineer, deploying, administering and maintaining the company's infrastructure both on bare-metal servers (co-located) as well as cloud servers (mostly Amazon EC2).
+   - title: Senior Unix/Linux Administrator
+     company: CC, ECE, NTUA
+     company_url: ''
+     company_logo: ntua.jpg
+     location: Athens, GR
+     date_start: '2005-10-01'
+     date_end: '2011-09-01'
+     description: Set up the entire lab (25-30 workstations, 5 servers), migrated from Solaris/SunOS 4.3 to Debian GNU/Linux, and maintained the lab which featured a fully autonomous setup, able to provide the necessary software for students to work on ECE school's projects.
+
+   - title: Unix Engineer
+     company: PC Systems SA
+     company_url: ''
+     company_logo: pcsystems.jpg
+     location: Athens, GR
+     date_start: '2004-05-01'
+     date_end: '2004-09-01'
+     description: Served as backend support for the company's clients, mostly Solaris and some Linux-based setups.
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -162,7 +179,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/ananos-cv-en-20210212.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
