@@ -165,8 +165,10 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=oeH5z84AAAAJ
   - icon: github
     icon_pack: fab
@@ -185,12 +187,16 @@ social:
 highlight_name: false
 ---
 
-Hi there! I'm Anastassios (or Tassos for short) and this is my personal home
+Hi there! I'm Anastassios (or Tassos, for short) and this is my personal home
 page. I am a Researcher in Computer Systems and I am currently working on the
-lower-level parts of the stack to attack issues related to performance,
-scalability, power-efficiency and security in hypervisors. 
+various levels of the systems software stack to attack issues related to
+performance, scalability, power-efficiency and security in modern systems. 
 
-Since 2015 I have been affiliated with UK & EU firms, building & architecting
+Since 2015 I have been affiliated with [UK & EU firms](/#section-experience), building & architecting
 solutions for efficient execution of workloads in the Cloud and at the Edge.  I
 have been involved in many parts of the systems software stack, including
 device drivers, memory management, network/block layers etc. 
+
+Previously, I was a postdoctoral researcher at
+[CSLab](https://www.cslab.ece.ntua.gr), [NTUA](https://www.ntua.gr) (2014), where I
+got my Dipl. Eng. (2006) and my PhD (2013).
