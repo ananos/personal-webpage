@@ -24,6 +24,8 @@ role: Systems Researcher
 organizations:
   - name: Nubificus LTD
     url: https://nubificus.co.uk/
+  - name: Nubis PC
+    url: https://nubis-pc.eu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Systems software, virtualization, Operating Systems, Containers, unikernels etc.
@@ -49,7 +51,7 @@ education:
 experience:
    date_format: Jan 2006
    items:
-   - title: Director
+   - title: Director & Systems Researcher
      company: Nubificus LTD
      company_url: 'https://nubificus.co.uk'
      company_logo: nbfc.jpg
@@ -57,19 +59,21 @@ experience:
      date_start: '2018-08-31'
      date_end: ''
      description: |2-
-         Nubificus Ltd is a software consultancy tackling complex virtualization problems. We explore lightweight virtualization solutions for edge, low power devices, aiming to bring Serverless and FaaS at the Edge.
+         Nubificus Ltd is a software consultancy tackling complex virtualization problems. We explore lightweight virtualization solutions for edge, low-power devices, aiming to bring Serverless and FaaS at the Edge.
          At Nubificus:
          *    we enable hardware acceleration for Serverless Computing (https://vaccel.org)
-         *    we experiment with the systems software stack to reduce OS system overhead by enabling in-Kernel task isolation using virtualization techniques (in-kernel VMM)
-         *    we explore container runtimes to facilitate efficient workload placement in the Cloud and at the Edge, focusing on interoperability.
-   - title: Systems Architect
+         *    we experiment with the systems software stack to reduce OS system overhead by enabling in-Kernel task isolation using virtualization techniques (in-kernel VMM, https://github.com/nubificus/hedge)
+         *    we explore container runtimes to facilitate efficient workload placement in the Cloud and at the Edge, focusing on interoperability (https://github.com/nubificus/urunc).
+   - title: Systems Researcher
      company: Nubis PC
      company_url: 'https://nubis-pc.eu'
      company_logo: nubis.jpg
      location: Athens, GR
      date_start: '2020-03-20'
      date_end: ''
-     description: 
+     description:  |2-
+         At Nubis, we redefine how applications are being packaged, deployed and executed in Cloud & Edge environments.
+
    - title: Software / Systems Engineer
      company: Mellanox Technologies LTD
      company_url: 'https://www.mellanox.com'
@@ -192,11 +196,12 @@ page. I am a Researcher in Computer Systems and I am currently working on the
 various levels of the systems software stack to attack issues related to
 performance, scalability, power-efficiency and security in modern systems. 
 
-Since 2015 I have been affiliated with [UK & EU firms](/#section-experience), building & architecting
-solutions for efficient execution of workloads in the Cloud and at the Edge.  I
-have been involved in many parts of the systems software stack, including
-device drivers, memory management, network/block layers etc. 
+Since 2015 I have been affiliated with [UK & EU firms](/#section-experience),
+building & architecting solutions for efficient execution of workloads in the
+Cloud and at the Edge. I have been involved in many parts of the systems
+software stack, including device drivers, memory management, network/block
+layers etc. 
 
 Previously, I was a postdoctoral researcher at
-[CSLab](https://www.cslab.ece.ntua.gr), [NTUA](https://www.ntua.gr) (2014), where I
-got my Dipl. Eng. (2006) and my PhD (2013).
+[CSLab](https://www.cslab.ece.ntua.gr), [NTUA](https://www.ntua.gr) (2014),
+where I got my Dipl. Eng. (2006) and my PhD (2013).

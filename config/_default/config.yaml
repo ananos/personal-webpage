@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Anastassios Nanos # Website name
-baseURL: 'https://ananos.github.io/' # Website URL
+baseURL: 'https://ananos.co.uk' # Website URL
 
 ############################
 ## LANGUAGE
