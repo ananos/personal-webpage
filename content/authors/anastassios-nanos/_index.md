@@ -22,6 +22,8 @@ role: Systems Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: NOFire AI
+    url: https://www.nofire.ai/
   - name: Nubificus LTD
     url: https://nubificus.co.uk/
   - name: Nubis PC
@@ -51,6 +53,19 @@ education:
 experience:
    date_format: Jan 2006
    items:
+   - title: Chief Scientist & Co-founder
+     company: NOFire AI
+     company_url: 'https://www.nofire.ai'
+     company_logo: nofire.jpg
+     location: Remote
+     date_start: '2026-06-01'
+     date_end: ''
+     description: |2-
+         NOFire AI is building the context and control model for production systems. The aim is to answer two questions before a change ships: which deploy, config change or resource event actually caused a symptom, and what else breaks if a given service fails.
+         At NOFire:
+         *    we model services, deploys and dependencies so that a root cause is derived from the system's own history, rather than guessed
+         *    we work on what it takes to let an agent act in production safely, which is mostly an isolation and observability problem
+         *    we turn incident history into something the system can reuse.
    - title: Director & Systems Researcher
      company: Nubificus LTD
      company_url: 'https://nubificus.co.uk'
@@ -63,7 +78,8 @@ experience:
          At Nubificus:
          *    we enable hardware acceleration for Serverless Computing (https://vaccel.org)
          *    we experiment with the systems software stack to reduce OS system overhead by enabling in-Kernel task isolation using virtualization techniques (in-kernel VMM, https://github.com/nubificus/hedge)
-         *    we explore container runtimes to facilitate efficient workload placement in the Cloud and at the Edge, focusing on interoperability (https://github.com/urunc-dev/urunc).
+         *    we explore container runtimes to facilitate efficient workload placement in the Cloud and at the Edge, focusing on interoperability (https://github.com/urunc-dev/urunc)
+         *    we run coding agents inside microVM sandboxes, from the CLI down to the VMM itself (https://brig.sh, https://github.com/brig-sh/hull, https://github.com/brig-sh/hvi-vmm).
    - title: Systems Researcher
      company: Nubis PC
      company_url: 'https://nubis-pc.eu'
@@ -198,9 +214,10 @@ performance, scalability, power-efficiency and security in modern systems.
 
 Since 2015 I have been affiliated with [UK & EU firms](/#section-experience),
 building & architecting solutions for efficient execution of workloads in the
-Cloud and at the Edge. I have been involved in many parts of the systems
-software stack, including device drivers, memory management, network/block
-layers etc. 
+Cloud and at the Edge. Since 2026 I am also a co-founder of NOFire AI, where
+the same systems work goes into keeping production reliable. I have been
+involved in many parts of the systems software stack, including device
+drivers, memory management, network/block layers etc. 
 
 Previously, I was a postdoctoral researcher at
 [CSLab](https://www.cslab.ece.ntua.gr), [NTUA](https://www.ntua.gr) (2014),
