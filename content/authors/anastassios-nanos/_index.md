@@ -61,11 +61,7 @@ experience:
      date_start: '2026-06-01'
      date_end: ''
      description: |2-
-         NOFire AI is building the context and control model for production systems. The aim is to answer two questions before a change ships: which deploy, config change or resource event actually caused a symptom, and what else breaks if a given service fails.
-         At NOFire:
-         *    we model services, deploys and dependencies so that a root cause is derived from the system's own history, rather than guessed
-         *    we work on what it takes to let an agent act in production safely, which is mostly an isolation and observability problem
-         *    we turn incident history into something the system can reuse.
+         Leading technical strategy for runtime security and sandboxing in agentic AI systems. Architecting the platform's secure execution layer, with a focus on stateless, policy-attested runtimes for isolating AI agent workloads. Bridging open-source runtime infrastructure with enterprise-grade sandboxing to enforce strong isolation guarantees for untrusted code execution.
    - title: Director & Systems Researcher
      company: Nubificus LTD
      company_url: 'https://nubificus.co.uk'
