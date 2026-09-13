@@ -62,6 +62,7 @@ experience:
      date_end: ''
      description: |2-
          Leading technical strategy for runtime security and sandboxing in agentic AI systems. Architecting the platform's secure execution layer, with a focus on stateless, policy-attested runtimes for isolating AI agent workloads. Bridging open-source runtime infrastructure with enterprise-grade sandboxing to enforce strong isolation guarantees for untrusted code execution.
+         The runtime infrastructure is open source: https://brig.sh, https://github.com/brig-sh/hull and https://github.com/brig-sh/hvi-vmm.
    - title: Director & Systems Researcher
      company: Nubificus LTD
      company_url: 'https://nubificus.co.uk'
@@ -74,8 +75,7 @@ experience:
          At Nubificus:
          *    we enable hardware acceleration for Serverless Computing (https://vaccel.org)
          *    we experiment with the systems software stack to reduce OS system overhead by enabling in-Kernel task isolation using virtualization techniques (in-kernel VMM, https://github.com/nubificus/hedge)
-         *    we explore container runtimes to facilitate efficient workload placement in the Cloud and at the Edge, focusing on interoperability (https://github.com/urunc-dev/urunc)
-         *    we run coding agents inside microVM sandboxes, from the CLI down to the VMM itself (https://brig.sh, https://github.com/brig-sh/hull, https://github.com/brig-sh/hvi-vmm).
+         *    we explore container runtimes to facilitate efficient workload placement in the Cloud and at the Edge, focusing on interoperability (https://github.com/urunc-dev/urunc).
    - title: Systems Researcher
      company: Nubis PC
      company_url: 'https://nubis-pc.eu'
