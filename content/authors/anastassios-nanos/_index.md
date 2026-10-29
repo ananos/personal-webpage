@@ -197,7 +197,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/ananos-cv-en-20210212.pdf
+    link: uploads/ananos-cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
