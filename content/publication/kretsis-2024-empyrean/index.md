@@ -12,11 +12,24 @@ authors:
 - Daniel Lucani
 - Jose Manuel Bernabe
 - Antonio Skarmeta
-- ' others'
-date: '2024-01-01'
-publishDate: '2025-08-07T13:37:02.108205Z'
+- Ivan Paez
+- Luca Cominardi
+- Michael Mercier
+- Pedro Velho
+- Yiannis Georgiou
+- Charalampos Mainas
+- Anastassios Nanos
+- Javier Martin
+- Aitor Fernandez Gomez
+- Roberto Gonzalez
+- Panos Ilias
+- Theodoros Chalazas
+- Keshav Chintamani
+date: '2024-06-01'
+publishDate: '2026-10-29T13:09:29.059322Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 33rd International Symposium on High-Performance
   Parallel and Distributed Computing*'
+doi: 10.1145/3625549.3658814
 ---

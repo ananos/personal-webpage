@@ -20,7 +20,7 @@ authors:
 - Roberto Gonzalez
 - Emmanouel Varvarigos
 date: '2026-01-01'
-publishDate: '2026-10-29T12:40:48.712099Z'
+publishDate: '2026-10-29T13:09:29.032667Z'
 publication_types:
 - paper-conference
 publication: '*2026 IEEE International Conference on Engineering, Technology and Innovation

@@ -10,11 +10,12 @@ authors:
 - Nicolas Weber
 - Roberto Gonzalez
 date: '2026-03-01'
-publishDate: '2026-10-29T12:40:48.720867Z'
+publishDate: '2026-10-29T13:09:29.022685Z'
 publication_types:
 - manuscript
+publication: '*arXiv*'
 doi: 10.48550/arXiv.2603.16685
 links:
-- name: URL
+- name: arXiv
   url: https://arxiv.org/abs/2603.16685
 ---

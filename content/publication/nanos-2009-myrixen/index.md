@@ -1,11 +1,12 @@
 ---
-title: 'MyriXen: message passing in Xen virtual machines over Myrinet and Ethernet'
+title: 'MyriXen: Message Passing in Xen Virtual Machines over Myrinet and Ethernet'
 authors:
 - Anastassios Nanos
 - Nectarios Koziris
-date: '2009-01-01'
-publishDate: '2025-08-07T13:37:01.954685Z'
+date: '2009-08-01'
+publishDate: '2026-10-29T13:09:29.132111Z'
 publication_types:
 - paper-conference
-publication: '*European Conference on Parallel Processing*'
+publication: '*Euro-Par 2009 – Parallel Processing Workshops*'
+doi: 10.1007/978-3-642-14122-5_45
 ---

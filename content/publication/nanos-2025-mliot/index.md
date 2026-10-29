@@ -8,7 +8,7 @@ authors:
 - Ilias Lagomatis
 - Aristotelis Kretsis
 date: '2025-01-01'
-publishDate: '2025-08-07T13:37:02.120717Z'
+publishDate: '2026-10-29T13:09:29.042452Z'
 publication_types:
 - paper-conference
 publication: '*2025 IEEE 25th International Symposium on Cluster, Cloud and Internet
