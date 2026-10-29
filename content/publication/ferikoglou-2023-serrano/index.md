@@ -14,7 +14,7 @@ authors:
 - Dimosthenis Masouros
 - Kostas Siozios
 date: '2023-04-01'
-publishDate: '2026-10-29T12:40:48.731556Z'
+publishDate: '2026-10-29T13:09:29.078541Z'
 publication_types:
 - paper-conference
 publication: '*2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)*'

@@ -1,12 +1,13 @@
 ---
-title: Coexisting scheduling policies boosting I/O virtual machines
+title: Coexisting Scheduling Policies Boosting I/O Virtual Machines
 authors:
 - Dimitris Aragiorgis
 - Anastassios Nanos
 - Nectarios Koziris
-date: '2011-01-01'
-publishDate: '2025-08-07T13:37:02.014444Z'
+date: '2011-08-01'
+publishDate: '2026-10-29T13:09:29.122979Z'
 publication_types:
 - paper-conference
-publication: '*European Conference on Parallel Processing*'
+publication: '*Euro-Par 2011: Parallel Processing Workshops*'
+doi: 10.1007/978-3-642-29740-3_46
 ---

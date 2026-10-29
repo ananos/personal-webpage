@@ -24,7 +24,7 @@ authors:
 - Juan Jose Vegas Olmos
 - Andrea Sgambelluri
 date: '2026-08-01'
-publishDate: '2026-10-29T12:40:48.708281Z'
+publishDate: '2026-10-29T13:09:29.029198Z'
 publication_types:
 - article-journal
 publication: '*Computer Networks*'

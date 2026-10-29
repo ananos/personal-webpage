@@ -25,7 +25,7 @@ authors:
 - Mark Angoustures
 - Juan Jose Vegas Olmos
 date: '2025-09-01'
-publishDate: '2026-10-29T12:40:48.725086Z'
+publishDate: '2026-10-29T13:09:29.039175Z'
 publication_types:
 - paper-conference
 publication: '*2025 IEEE Conference on Standards for Communications and Networking

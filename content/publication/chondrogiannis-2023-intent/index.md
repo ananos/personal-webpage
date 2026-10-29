@@ -10,8 +10,9 @@ authors:
 - Aristotelis Kretsis
 - Panagiotis Kokkinos
 date: '2023-01-01'
-publishDate: '2025-08-07T13:37:02.075970Z'
+publishDate: '2026-10-29T13:09:29.082344Z'
 publication_types:
 - paper-conference
-publication: '*European Conference on Service-Oriented and Cloud Computing*'
+publication: '*Service-Oriented and Cloud Computing*'
+doi: 10.1007/978-3-031-46235-1_17
 ---
