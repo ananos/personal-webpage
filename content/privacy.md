@@ -1,5 +1,5 @@
 ---
-title: Privacy policy for the mini-assistant app
+title: Privacy policy
 date: 2026-11-08
 type: page
 share: false
