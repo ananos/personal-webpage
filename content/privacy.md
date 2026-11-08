@@ -22,11 +22,14 @@ When I sign in, I grant mini-assistant these Google permissions:
   attachments.
 - **Google Calendar, read-only** (`calendar.readonly`): my events.
 - **Google Drive, read-only** (`drive.readonly`): my files.
+- **Google Drive, app files only** (`drive.file`): to upload files I ask it to
+  save, and to update those files later. It cannot change any other file.
 - **Google Tasks** (`tasks`): requested for a planned feature that adds
   follow-ups I approve to my own task list. The current version does not use
   it.
 
-mini-assistant never sends, deletes or changes email, events or files.
+mini-assistant never sends or deletes email, and never changes events. In
+Google Drive it only creates or updates files I ask it to upload.
 
 ## How it uses the data
 
