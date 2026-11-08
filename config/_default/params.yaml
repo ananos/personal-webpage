@@ -46,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Anastassios Nanos. This work is licensed under {license} · [mini-assistant app privacy policy](https://ananos.co.uk/privacy/)'
+    notice: '© {year} Anastassios Nanos. This work is licensed under {license} · [Privacy policy](https://ananos.co.uk/privacy/)'
     license:
       enable: true
       allow_derivatives: false
